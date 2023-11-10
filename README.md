@@ -1,5 +1,3 @@
 # Meus-Projetos
- Minhas criações HTML, CSS E JAVASCRIPT
+ Mini Projetos para treinar a lógica utilizando, HTML5, CSS3 e JavaScript.
 
-card-flip: Efeitos reproduzidos https://gustavoalcantaradev.github.io/Meus-Projetos/card-flip/ </br>
-Contador: Desafio feito na DIO https://gustavoalcantaradev.github.io/Meus-Projetos/contador/ </br>
